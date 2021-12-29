@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Travel Application</string>
+    <string name="title_get_ready">Get Ready for</string>
+    <string name="title_new_adventure">New adventures</string>
+    <string name="description_pack_things">Pack your things and make more memories Outdoor</string>
+    <string name="welcome">Welcome,</string>
+    <string name="name">Aljabri</string>
+    <string name="search">Search</string>
+    <string name="saved_places">Saved Places</string>
+    <string name="travel_buddies">Travel Buddies</string>
+    <string name="get_started" >Let\'s Get Started</string>
+</resources>
